@@ -27,7 +27,7 @@
 <br>
 
 **GitHub Stats:-**<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=realatharva&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Atharva's's github stats" /></a><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=realatharva&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Atharva's github stats" /></a><br>
 
 <br>
 
